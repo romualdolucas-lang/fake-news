@@ -65,7 +65,7 @@ footer {
     backface-visibility: hidden;
 }
 .cartao-verso {
-    transform: rotate(180deg);
+    transform: rotateY(180deg);
 }
 
 section {
