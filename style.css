@@ -9,11 +9,11 @@ display: flex;
 justify-content: space-between;
 align-items: center;
 background-color: rgb(134, 23, 23);
-
 }
+
 .cartao{
-width: 260px
-height: 200px
+width: 260px;
+height: 200px;
 }
 
 .cartao-imagem{
@@ -64,6 +64,7 @@ footer {
     box-shadow: 0 6px 12px rgba(0, 0, 0, 15);
     backface-visibility: hidden;
 }
+
 .cartao-verso {
     transform: rotateY(180deg);
 }
