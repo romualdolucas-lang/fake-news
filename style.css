@@ -23,7 +23,7 @@ height: 200px;
 body{
 display: flex;
 flex-direction: column;
-min-height: 100w;
+min-height: 100vh;
 background-color: azure;
 }
 
@@ -61,7 +61,7 @@ footer {
 .cartao-frente, .cartao-verso {
     position: absolute;
     border-radius: 12px;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 15);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
     backface-visibility: hidden;
 }
 
