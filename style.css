@@ -27,7 +27,7 @@ min-height: 100vh;
 background-color: azure;
 }
 
-main{
+main {
 flex: 1;
 display: flex;
 flex-direction: column;
